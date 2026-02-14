@@ -127,7 +127,7 @@ function Section6() {
               )}
 
               {/* Card Content */}
-              <div className="flex-grow">
+              <div className="grow">
                 <h3 className="text-2xl font-bold">{pkg.title}</h3>
                 <p className={`text-sm mt-2 ${textMutedClasses}`}>Start From</p>
                 <div className="text-5xl font-bold mt-4 mb-6">${pkg.price}</div>
