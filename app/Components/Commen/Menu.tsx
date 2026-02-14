@@ -12,7 +12,7 @@ export default function Menu() {
                 <div className="absolute inset-0 rounded-xl bg-white opacity-0 group-hover:opacity-10 transition-opacity duration-500"></div>
 
                 <Image
-                    src="/Logos/MainLogo.png"
+                    src="./Logos/MainLogo.png"
                     alt="Menu Logo"
                     width={50}
                     height={50}

@@ -13,7 +13,7 @@ export default function Footer() {
                     <div className="flex flex-col items-start">
                         {/* Replace this src with your actual logo path */}
                         <Image
-                            src="/Logos/MainLogo.png"
+                            src="./Logos/MainLogo.png"
                             alt="Company Logo"
                             width={160}
                             height={60}

@@ -187,7 +187,7 @@ function Section5() {
       {/* Background Image Container (Fixed height to allow overlapping) */}
       <div className="w-full h-[500px] relative">
         <Image
-          src="/Sections/S5/image0.png"
+          src="./Sections/S5/image0.png"
           alt="Background Image"
           fill
           className="object-cover object-top"
@@ -305,42 +305,42 @@ function Section4() {
     {
       title: "Accounting",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "ITR Filing",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "Gst Registration",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "Accounting",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "Accounting",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "ITR Filing",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "Gst Registration",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
     {
       title: "Accounting",
       desc: "While we can customize your cleaning plan to suit your needs, most clients schedule regular cleaning services:",
-      imgSrc: "/Sections/SideIMG1.png",
+      imgSrc: "./Sections/SideIMG1.png",
     },
   ];
 
@@ -402,7 +402,7 @@ function Section3() {
               </h2>
             </div>
             <Image
-              src="/Sections/ImgS3-2.JPG"
+              src="./Sections/ImgS3-2.JPG"
               alt="Menu Logo"
               fill
               className="object-contain absolute mt-20"
@@ -410,7 +410,7 @@ function Section3() {
           </div>
         </div>
         <Image
-          src="/Sections/ImgS3-1.png"
+          src="./Sections/ImgS3-1.png"
           alt="Menu Logo"
           fill
           className="object-cover"
@@ -468,19 +468,19 @@ function Section1() {
           </p>
           <div className="flex gap-2 mt-10 ml-[-28px]">
             <Image
-              src="/Sections/Google.png"
+              src="./Sections/Google.png"
               alt="Menu Logo"
               width={125}
               height={40}
             />
             <Image
-              src="/Sections/Google.png"
+              src="./Sections/Google.png"
               alt="Menu Logo"
               width={120}
               height={40}
             />
             <Image
-              src="/Sections/Google.png"
+              src="./Sections/Google.png"
               alt="Menu Logo"
               width={120}
               height={40}
@@ -521,7 +521,7 @@ function Section1() {
             ))}
           </div>
           <Image
-            src="/Sections/SideIMG1.png"
+            src="./Sections/SideIMG1.png"
             alt="Menu Logo"
             width={540}
             height={540}
@@ -542,7 +542,7 @@ function Section2() {
         {/* Left Side: Image and Shield Check section */}
         <div className="w-[40%] h-180 flex justify-start relative">
           <Image
-            src="/Sections/SideIMG1.png"
+            src="./Sections/SideIMG1.png"
             alt="Menu Logo"
             width={700}
             height={700}
